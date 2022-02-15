@@ -1,0 +1,38 @@
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.exe
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.deps.json
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.runtimeconfig.json
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.runtimeconfig.dev.json
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.dll
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.pdb
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.Views.dll
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\bin\Debug\netcoreapp3.1\Favorite Animal.Views.pdb
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.csproj.AssemblyReference.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.AssemblyInfoInputs.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.AssemblyInfo.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.csproj.CoreCompileInputs.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.RazorAssemblyInfo.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.RazorAssemblyInfo.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\staticwebassets\Favorite Animal.StaticWebAssets.Manifest.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\staticwebassets\Favorite Animal.StaticWebAssets.xml
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\scopedcss\bundle\Favorite Animal.styles.css
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.TagHelpers.input.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.TagHelpers.output.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.RazorCoreGenerate.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.RazorTargetAssemblyInfo.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.RazorTargetAssemblyInfo.cs
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.Views.pdb
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.dll
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.pdb
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.genruntimeconfig.cache
+C:\Users\micah\source\repos\Favorite Animal\Favorite Animal\obj\Debug\netcoreapp3.1\Favorite Animal.csproj.CopyComplete
