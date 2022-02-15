@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Favorite Animal Sloth</h1>
+    <body class="tv">
+
+        <div>
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/cyPJbm0ibUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <img class="image" id="image" width="200 px" src="~/css/NewFolder/sloth.jpg" />
+        <p>Click the button to see the picture move</p>
+        <input type="button" value="Play" onclick="moveRight();"/>
+        <input type="button" value="Stop" onclick="stop();"/>
+    </body>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
